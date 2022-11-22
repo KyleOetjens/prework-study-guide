@@ -34,7 +34,7 @@ ul {
 
 p {
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
 }
 .card {
     width: 80%;
@@ -43,4 +43,8 @@ p {
     box-shadow: 5px 10px #0A6D65;
     border-radius: 10%;
     text-align: center;
+}
+ol {
+    padding-left: 40px;
+    list-style: none;
 }
