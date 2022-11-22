@@ -6,7 +6,7 @@ This study guide is my first attempt at building a web page and I will use it to
 My motivation comes from wanting to change the course of my career and give myself more exposure to exciting opportunites in the future.  <br>
 I built this project to start testing what I am learning.  I plan to add to it as my skills increase.  <br>
 This project is going to jumpstart my coding career!  <br>
-I have only learned to basics of HTML, CSS and JavaScript so far. More to come!
+I have only learned to basics of HTML, CSS and JavaScript so far. With a lot more to come!
 
 ## Installation
 
